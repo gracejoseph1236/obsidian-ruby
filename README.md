@@ -5,7 +5,7 @@
 ## Ruby
 A red/ruby theme for [Obsidian.md](https://obsidian.md/)
 
-It is a modified version of cotemaxine's amethyst theme
+It is a modified version of [cotemaxine's amethyst theme](https://github.com/cotemaxime/obsidian-amethyst)
 
 It works best with dark theme
 
